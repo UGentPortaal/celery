@@ -180,7 +180,7 @@ if is_setuptools:
 
 setup(
     name=NAME,
-    version=meta['VERSION'],
+    version=meta['VERSION'] + 'ugent1',
     description=meta['doc'],
     author=meta['author'],
     author_email=meta['contact'],
